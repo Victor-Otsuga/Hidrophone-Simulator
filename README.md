@@ -27,3 +27,8 @@ The esp connects to wifi and waits for a trigger to make a MQTT post passing thr
 3) Wait until ESP32 connect to internet
 4) Click on pir-motion-sensor to ping a trigger
 5) Done the MQTT post has been done
+
+### Dev Team
+Victor Augusto 	RM 553518
+Vitor de Moura 	RM 553806
+Hugo 		        RM 553266
